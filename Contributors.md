@@ -17,6 +17,7 @@
 - [Guillermo Guillen] (https://github.com/guillermochristopher)
 - [João Victor Cosme Melo] (https://github.com/VictorCosme)
 - [Alejandro Ch](https://github.com/AlxChuc)
+- [khushi gupta](https://github.com/khushig99)
 - [Shruti Dalvi](https://github.com/dalvishruti14)
 - [Gaurav Kale](https://github.com/gauravkale263)
 - [Bratajit Das](https://github.com/Bratajit-03)
